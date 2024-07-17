@@ -14,7 +14,7 @@ namespace Assignments
         {
             
             List<Person> peopleList = new List<Person>() 
-{ new Person("Darshan", 20), new Person("Sarang", 21), new Person("Om", 18) };
+{ new Person("Darshan", 20), new Person("Sarang", 21), new Person("Om", 18), new Person("Yadnesh", 17) };
             Console.WriteLine("Before Sorting: ");
             foreach (Person p in peopleList)
             {

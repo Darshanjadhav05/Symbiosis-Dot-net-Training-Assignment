@@ -1,7 +1,10 @@
 Create a Point3D class with members x (float), y (float), and z (float).
 
-Initialize the members in the constructor and override the ToString() method to return a string specifying the data of x, y, and z.
+Initialize the members in the constructor and override the ToString() method 
+to return a string specifying the data of x, y, and z.
 
-Implement the IFormattable interface on the Point3D class and return x, y, z individually and combined depending on the format argument passed.
+Implement the IFormattable interface on the Point3D class and 
+return x, y, z individually and combined depending on the format argument passed.
 
-Create an instance of the Point3D class in Main() and print (using Console.WriteLine) x, y, and z individually and combined using various formats.
+Create an instance of the Point3D class in Main() and print (using Console.WriteLine) x, y, and z 
+individually and combined using various formats.

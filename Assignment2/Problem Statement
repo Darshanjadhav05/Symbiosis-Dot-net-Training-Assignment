@@ -1,0 +1,2 @@
+Create a Person class that implements the IComparable<T> interface to allow sorting based on the Age property. 
+Implement the necessary methods and test the sorting functionality by creating a list of Person objects.

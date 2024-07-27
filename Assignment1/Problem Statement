@@ -1,0 +1,9 @@
+1. Write a C# program to create a Anthmetic class that has 2 methods -> AddNumbers() and Multiply Numbers().
+
+I. Both methods take 2 arguments of type integer and do not return values. They compute addition/multiplication and print the result on the console
+
+II. Define a delegate named Operation in the project namespace that has the same signature as the methods defined above.
+
+III. In the main method of program class, create a new object of Arithmetic class and a reference of type Operation
+
+Accept 2 numbers from the user through commandline and store them in local variables Accept a choice from the user(1. Addition 2. Multiplication 3.Both) and depending on user input, perform the appropriate operation by adding proper method methods to the delegate reference and calling/invoking the delegate
